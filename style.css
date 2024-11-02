@@ -1,0 +1,21 @@
+.sec-3{
+    background-color: whitesmoke;
+    margin-top: 50px;
+    padding: 50px;
+}
+.sec-5{
+      background-color:rgba(165, 116, 42, 0.899);
+      margin-top: 50px;
+}
+.b-t-m:hover{
+    background-color: burlywood;
+    color: white;
+    transition: 0.50s;
+    cursor: pointer;
+}
+.card-btn:hover{
+background-color: transparent;
+color: #fff;
+transition: 0.50s;
+cursor: pointer;
+}
